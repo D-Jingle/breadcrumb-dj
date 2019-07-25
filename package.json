@@ -1,0 +1,44 @@
+{
+  "name": "breadcrumb-dj",
+  "version": "0.1.0",
+  "description": "breadcrumb",
+  "author": "d_jingle <d_jingle@163.com>",
+  "main": "src/components/index.js",
+  "license": "MIT",
+  "private": false,
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "vue",
+    "breadcrumb",
+    "code",
+    "breadcrumb code",
+    "d_jingle"
+  ],
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "element-ui": "^2.10.1",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-plugin-eslint": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-component": "^1.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}

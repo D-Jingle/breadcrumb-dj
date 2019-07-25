@@ -2,7 +2,7 @@
 
 ## Usage
 
-`npm install`
+`npm install breadcrumb-dj`
 
 main.js
 

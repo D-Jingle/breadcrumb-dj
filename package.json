@@ -1,9 +1,9 @@
 {
   "name": "breadcrumb-dj",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "breadcrumb",
   "author": "d_jingle <d_jingle@163.com>",
-  "main": "src/components/index.js",
+  "main": "src/main/index.js",
   "license": "MIT",
   "private": false,
   "files": [
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/D-Jingle/breadcrumb-dj"
   },
   "keywords": [
     "vue",
